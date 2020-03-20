@@ -1,4 +1,4 @@
-- - -
+---
 layout:     post
 title:      八尺的博客搭建完成
 subtitle:   放假没带电脑，纯手机操作
@@ -8,4 +8,4 @@ header-img: img/post-bg-rwd.jpg
 catalog: true
 tags:
     - Blog
-- - -
+---
